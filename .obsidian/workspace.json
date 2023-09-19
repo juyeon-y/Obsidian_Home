@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "도서 스터디/무제 폴더/init file.md",
+                "file": "도서 스터디/토비의 스프링 3.1/Vol.1 스프링의 이해와 원리/1-2. 테스트.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6b14827397ba7ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "도서 스터디/토비의 스프링 3.1/토비의 스프링 3.1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "도서 스터디/무제 폴더/init file.md",
+                "file": "도서 스터디/토비의 스프링 3.1/토비의 스프링 3.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "도서 스터디/무제 폴더/init file.md",
+                "file": "도서 스터디/토비의 스프링 3.1/토비의 스프링 3.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "도서 스터디/무제 폴더/init file.md"
+                "file": "도서 스터디/토비의 스프링 3.1/토비의 스프링 3.1.md"
               }
             }
           }
@@ -146,17 +159,30 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "bfda737909f8878a",
+  "active": "f6b14827397ba7ed",
   "lastOpenFiles": [
+    "도서 스터디/토비의 스프링 3.1/Vol.1 스프링의 이해와 원리/1-7. 스프링 핵심 기술의 응용.md",
+    "도서 스터디/토비의 스프링 3.1/Vol.1 스프링의 이해와 원리/1-9. 스프링 프로젝트 시작하기.md",
+    "도서 스터디/토비의 스프링 3.1/Vol.1 스프링의 이해와 원리/1-8. 스프링이란 무엇인가.md",
+    "도서 스터디/토비의 스프링 3.1/Vol.1 스프링의 이해와 원리/1-6. AOP.md",
+    "도서 스터디/토비의 스프링 3.1/Vol.1 스프링의 이해와 원리/1-5. 서비스 추상화.md",
+    "도서 스터디/토비의 스프링 3.1/Vol.1 스프링의 이해와 원리/1-4. 예외.md",
+    "도서 스터디/토비의 스프링 3.1/Vol.1 스프링의 이해와 원리/1-3. 템플릿.md",
+    "도서 스터디/토비의 스프링 3.1/Vol.1 스프링의 이해와 원리/1-2. 테스트.md",
+    "도서 스터디/토비의 스프링 3.1/토비의 스프링 3.1.md",
+    "도서 스터디/토비의 스프링 3.1/Vol.1 스프링의 이해와 원리/1-1. 오브젝트와 의존관계.md",
+    "도서 스터디/토비의 스프링 3.1/Vol.2 스프링의 기술과 선택/무제 파일.md",
+    "도서 스터디/토비의 스프링 3.1/Vol.2 스프링의 기술과 선택",
+    "도서 스터디/토비의 스프링 3.1/Vol.1 스프링의 이해와 원리",
+    "Vol.1 스프링의 이해와 원리.md",
     "Obsidian_Home",
-    "도서 스터디/무제 폴더/init file.md",
     "Attached file/Pasted image 20230919191822.png",
     "Attached file",
     "도서 스터디/무제 폴더 1",
     "무제 파일.canvas",
     "무제 파일 1.canvas",
     "도서 스터디/도서 스터디.md",
-    "도서 스터디/무제 폴더",
+    "도서 스터디/토비의 스프링 3.1",
     "도서 스터디"
   ]
 }
