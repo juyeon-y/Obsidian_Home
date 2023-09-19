@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "be5a0fdc3f6ae106",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcbaeb439ddd7e3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfda737909f8878a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "도서 스터디/무제 폴더/init file.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d991aad90ec0b08d",
+    "type": "split",
+    "children": [
+      {
+        "id": "490acc8b3cc1aa08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe80eaf6d5f3565b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8645469fac7486c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "655a2371b413f7e1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "deafffb2bd21d4b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "70f864d9f1f07cab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b78cee598856e8b7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "도서 스터디/무제 폴더/init file.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bfe2bcc62e9f0f87",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "도서 스터디/무제 폴더/init file.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d0a05d2843b21436",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "aafaac2790ce2f6c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "도서 스터디/무제 폴더/init file.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "bfda737909f8878a",
+  "lastOpenFiles": [
+    "Obsidian_Home",
+    "도서 스터디/무제 폴더/init file.md",
+    "Attached file/Pasted image 20230919191822.png",
+    "Attached file",
+    "도서 스터디/무제 폴더 1",
+    "무제 파일.canvas",
+    "무제 파일 1.canvas",
+    "도서 스터디/도서 스터디.md",
+    "도서 스터디/무제 폴더",
+    "도서 스터디"
+  ]
+}
