@@ -23,8 +23,12 @@
             "id": "f6b14827397ba7ed",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "도서 스터디/토비의 스프링 3.1/Vol.1 스프링의 이해와 원리/1-1. 오브젝트와 의존관계.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "도서 스터디/토비의 스프링 3.1/Vol.1 스프링의 이해와 원리/1-1. 오브젝트와 의존관계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "도서 스터디/토비의 스프링 3.1/Vol.1 스프링의 이해와 원리/1-1. 오브젝트와 의존관계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "도서 스터디/토비의 스프링 3.1/Vol.1 스프링의 이해와 원리/1-1. 오브젝트와 의존관계.md"
+              }
             }
           }
         ]
@@ -153,8 +161,10 @@
   },
   "active": "f6b14827397ba7ed",
   "lastOpenFiles": [
+    "도서 스터디/토비의 스프링 3.1/토비의 스프링 3.1.md",
     "도서 스터디/Index/도서 스터디.md",
     "도서 스터디/토비의 스프링 3.1/Index/토비의 스프링 3.1.md",
+    "도서 스터디/토비의 스프링 3.1/Index",
     "Index/Index.md",
     "Index",
     "도서 스터디/토비의 스프링 3.1/Vol.1 스프링의 이해와 원리/1-1. 오브젝트와 의존관계.md",
@@ -178,7 +188,6 @@
     "도서 스터디/토비의 스프링 3.1/인덱스/Vol.1 스프링의 이해와 원리.md",
     "도서 스터디/토비의 스프링 3.1/인덱스/Vol.2 스프링의 기술과 선택.md",
     "도서 스터디/토비의 스프링 3.1/Vol.2 스프링의 기술과 선택/무제 파일 3.md",
-    "도서 스터디/토비의 스프링 3.1/Index",
     "도서 스터디/토비의 스프링 3.1/Vol.2 스프링의 기술과 선택",
     "도서 스터디/토비의 스프링 3.1/Vol.1 스프링의 이해와 원리",
     "Obsidian_Home",
