@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 436.5
+    "width": 277.5
   },
   "right": {
     "id": "deafffb2bd21d4b4",
@@ -146,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca94c0178fc55e75",
+  "active": "fe80eaf6d5f3565b",
   "lastOpenFiles": [
-    "attached_files",
     "attached_files/스크린샷 2023-12-22 오후 3.50.28.png",
+    "강의 스터디/Mastering Java Reactive Programming/1. Introduction.md",
+    "attached_files",
     "강의 스터디/Mastering Java Reactive Programming/10. Combining Publishers.md",
     "강의 스터디/Mastering Java Reactive Programming/Index/Mastering Java Reactive Programming.md",
     "강의 스터디/Mastering Java Reactive Programming/9. Backpressure, Overflow Strategy.md",
@@ -164,7 +165,6 @@
     "강의 스터디/Mastering Java Reactive Programming/4. Flux.md",
     "강의 스터디/Mastering Java Reactive Programming/3. Mono.md",
     "강의 스터디/Mastering Java Reactive Programming/2. Resources.md",
-    "강의 스터디/Mastering Java Reactive Programming/1. Introduction.md",
     "도서 스터디/토비의 스프링 3.1/Index/토비의 스프링 3.1.md",
     "도서 스터디/투자자산운용사/해커스 투자자산운용사 문제집/(제2과목) 투자운용 및 전략 II, 투자분석/2-1. 대안투자운용 및 투자전략.md",
     "강의 스터디/Mastering Java Reactive Programming/Index",
@@ -184,7 +184,6 @@
     "도서 스터디/투자자산운용사/해커스 투자자산운용사 문제집/(제2과목) 투자운용 및 전략 II, 투자분석",
     "도서 스터디/투자자산운용사/해커스 투자자산운용사 문제집/(제1과목) 금융상품 및 세제",
     "도서 스터디/투자자산운용사",
-    "도서 스터디/투자자산운용사/해커스 투자자산운용사 문제집/Index",
     "Attached file/Pasted image 20230919191822.png",
     "무제 파일.canvas",
     "무제 파일 1.canvas"
