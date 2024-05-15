@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의 스터디/Mastering Java Reactive Programming/1. Introduction.md",
+                "file": "도서 스터디/투자자산운용사/해커스 투자자산운용사 문제집/(제1과목) 금융상품 및 세제/1-1. 세제관련 법규 및 세무전략.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의 스터디/Mastering Java Reactive Programming/1. Introduction.md",
+                "file": "도서 스터디/투자자산운용사/해커스 투자자산운용사 문제집/(제1과목) 금융상품 및 세제/1-1. 세제관련 법규 및 세무전략.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의 스터디/Mastering Java Reactive Programming/1. Introduction.md",
+                "file": "도서 스터디/투자자산운용사/해커스 투자자산운용사 문제집/(제1과목) 금융상품 및 세제/1-1. 세제관련 법규 및 세무전략.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의 스터디/Mastering Java Reactive Programming/1. Introduction.md"
+                "file": "도서 스터디/투자자산운용사/해커스 투자자산운용사 문제집/(제1과목) 금융상품 및 세제/1-1. 세제관련 법규 및 세무전략.md"
               }
             }
           }
@@ -148,10 +148,15 @@
   },
   "active": "ca94c0178fc55e75",
   "lastOpenFiles": [
+    "도서 스터디/투자자산운용사/해커스 투자자산운용사 문제집/(제2과목) 투자운용 및 전략 II, 투자분석/2-1. 대안투자운용 및 투자전략.md",
+    "도서 스터디/투자자산운용사/해커스 투자자산운용사 문제집/(제1과목) 금융상품 및 세제/1-1. 세제관련 법규 및 세무전략.md",
+    "도서 스터디/투자자산운용사/해커스 투자자산운용사 문제집/(제3과목) 직무윤리 및 법규, 투자운용 및 전략 I 등/3-1. 직무윤리.md",
+    "도서 스터디/투자자산운용사/해커스 투자자산운용사 문제집/(제2과목) 투자운용 및 전략 II, 투자분석/2-2. 해외증권투자운용 및 투자전략.md",
+    "도서 스터디/투자자산운용사/해커스 투자자산운용사 문제집/(제1과목) 금융상품 및 세제/1-2. 금융상품.md",
+    "강의 스터디/Mastering Java Reactive Programming/1. Introduction.md",
     "강의 스터디/Mastering Java Reactive Programming/attached_files/6.png",
     "6.png",
     "강의 스터디/Mastering Java Reactive Programming/attached_files/1.png",
-    "강의 스터디/Mastering Java Reactive Programming/1. Introduction.md",
     "강의 스터디/Mastering Java Reactive Programming/Index/Mastering Java Reactive Programming.md",
     "강의 스터디/Mastering Java Reactive Programming/attached_files/1. Introduction",
     "강의 스터디/Mastering Java Reactive Programming/2. Resources.md",
@@ -163,7 +168,6 @@
     "강의 스터디/Mastering Java Reactive Programming/attached_files/2312.png",
     "강의 스터디/Mastering Java Reactive Programming/attached_files/스크린샷 2024-04-09 오후 1.34.31.png",
     "강의 스터디/Mastering Java Reactive Programming/attached_files/스크린샷 2024-04-08 오후 4.45.04.png",
-    "강의 스터디/Mastering Java Reactive Programming/attached_files/스크린샷 2024-04-09 오후 1.43.14.png",
     "attached_files/1.md",
     "attached_files",
     "강의 스터디/Mastering Java Reactive Programming/attached_files/Mastering Java Reactive Programming",
@@ -180,18 +184,14 @@
     "강의 스터디/Mastering Java Reactive Programming/5. Flux - Emitting Items Programmatically.md",
     "강의 스터디/Mastering Java Reactive Programming/4. Flux.md",
     "도서 스터디/토비의 스프링 3.1/Index/토비의 스프링 3.1.md",
-    "도서 스터디/투자자산운용사/해커스 투자자산운용사 문제집/(제2과목) 투자운용 및 전략 II, 투자분석/2-1. 대안투자운용 및 투자전략.md",
     "강의 스터디/Mastering Java Reactive Programming/Index",
     "강의 스터디/Mastering Java Reactive Programming",
     "강의 스터디",
     "2.md",
     "도서 스터디/토비의 스프링 3.1/Vol.1 스프링의 이해와 원리/1-1. 오브젝트와 의존관계.md",
     "도서 스터디/토비의 스프링 3.1/Vol.1 스프링의 이해와 원리/1-2. 테스트.md",
-    "도서 스터디/투자자산운용사/해커스 투자자산운용사 문제집/(제2과목) 투자운용 및 전략 II, 투자분석/2-2. 해외증권투자운용 및 투자전략.md",
     "도서 스터디/투자자산운용사/해커스 투자자산운용사 문제집/Index/해커스 투자자산운용사 문제집.md",
-    "도서 스터디/투자자산운용사/해커스 투자자산운용사 문제집/(제1과목) 금융상품 및 세제/1-1. 세제관련 법규 및 세무전략.md",
     "도서 스터디/투자자산운용사/해커스 투자자산운용사 문제집/(제3과목) 직무윤리 및 법규, 투자운용 및 전략 I 등/3-10. 분산투자기법.md",
-    "도서 스터디/투자자산운용사/해커스 투자자산운용사 문제집/(제3과목) 직무윤리 및 법규, 투자운용 및 전략 I 등/3-1. 직무윤리.md",
     "도서 스터디/투자자산운용사/해커스 투자자산운용사 문제집/(제2과목) 투자운용 및 전략 II, 투자분석/2-6. 리스크 관리.md",
     "도서 스터디/투자자산운용사/해커스 투자자산운용사 문제집/(제3과목) 직무윤리 및 법규, 투자운용 및 전략 I 등",
     "무제 파일.canvas",
