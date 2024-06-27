@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의 스터디/Mastering Java Reactive Programming/1. Introduction.md",
+                "file": "도서 스터디/SQL 자격검정 실전문제/과목 1. 데이터 모델링의 이해/1-1. 데이터 모델링의 이해.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의 스터디/Mastering Java Reactive Programming/1. Introduction.md",
+                "file": "도서 스터디/SQL 자격검정 실전문제/과목 1. 데이터 모델링의 이해/1-1. 데이터 모델링의 이해.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의 스터디/Mastering Java Reactive Programming/1. Introduction.md",
+                "file": "도서 스터디/SQL 자격검정 실전문제/과목 1. 데이터 모델링의 이해/1-1. 데이터 모델링의 이해.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의 스터디/Mastering Java Reactive Programming/1. Introduction.md"
+                "file": "도서 스터디/SQL 자격검정 실전문제/과목 1. 데이터 모델링의 이해/1-1. 데이터 모델링의 이해.md"
               }
             }
           }
@@ -148,8 +148,30 @@
   },
   "active": "ca94c0178fc55e75",
   "lastOpenFiles": [
-    "강의 스터디/Mastering Java Reactive Programming/attached_files/4.png",
+    "도서 스터디/SQL 자격검정 실전문제/과목 1. 데이터 모델링의 이해/1-2. 데이터 모델과 성능.md",
+    "도서 스터디/SQL 자격검정 실전문제/과목 1. 데이터 모델링의 이해/1-1. 데이터 모델링의 이해.md",
+    "도서 스터디/해커스 투자자산운용사/(제1과목) 금융상품 및 세제/1-1. 세제관련 법규 및 세무전략.md",
+    "도서 스터디/해커스 투자자산운용사/(제3과목) 직무윤리 및 법규, 투자운용 및 전략 I 등/3-1. 직무윤리.md",
+    "도서 스터디/해커스 투자자산운용사/(제2과목) 투자운용 및 전략 II, 투자분석/2-1. 대안투자운용 및 투자전략.md",
+    "도서 스터디/SQL 자격검정 실전문제/Index/SQL 자격검정 실전문제.md",
+    "도서 스터디/SQL 자격검정 실전문제/과목 2. SQL 기본 및 활용/2-1. SQL 기본.md",
+    "도서 스터디/SQL 자격검정 실전문제/과목 2. SQL 기본 및 활용/2-2. SQL 활용.md",
+    "도서 스터디/SQL 자격검정 실전문제/과목 3. SQL 고급활용 및 튜닝/3-5. 고급 SQL 튜닝.md",
+    "도서 스터디/SQL 자격검정 실전문제/과목 3. SQL 고급활용 및 튜닝/3-1. 아키텍처 기반 튜닝 원리.md",
+    "도서 스터디/SQL 자격검정 실전문제/과목 3. SQL 고급활용 및 튜닝/3-2. Lock과 트랜잭션 동시성제어.md",
+    "도서 스터디/SQL 자격검정 실전문제/과목 3. SQL 고급활용 및 튜닝/3-3. 옵티마이저 원리.md",
+    "도서 스터디/SQL 자격검정 실전문제/과목 3. SQL 고급활용 및 튜닝/3-4. 인덱스와 조인.md",
+    "도서 스터디/SQL 자격검정 실전문제/과목 2. SQL 기본 및 활용/2-3. SQL 최적화 기본 원리.md",
+    "도서 스터디/해커스 투자자산운용사/Index/해커스 투자자산운용사.md",
+    "도서 스터디/SQL 자격검정 실전문제/과목 3. SQL 고급활용 및 튜닝",
+    "도서 스터디/SQL 자격검정 실전문제/과목 2. SQL 기본 및 활용",
+    "도서 스터디/SQL 자격검정 실전문제/과목 1. 데이터 모델링의 이해",
+    "도서 스터디/해커스 투자자산운용사/(제3과목) 직무윤리 및 법규, 투자운용 및 전략 I 등/3-4. 한국금융투자협회 규정.md",
+    "도서 스터디/SQL 자격검정 실전문제/Index",
+    "도서 스터디/해커스 투자자산운용사/(제3과목) 직무윤리 및 법규, 투자운용 및 전략 I 등/3-2. 자본시장과 금융투자업에 관한 법률.md",
     "강의 스터디/Mastering Java Reactive Programming/1. Introduction.md",
+    "도서 스터디/SQL 자격검정 실전문제",
+    "강의 스터디/Mastering Java Reactive Programming/attached_files/4.png",
     "강의 스터디/Mastering Java Reactive Programming/2. Mono.md",
     "강의 스터디/Mastering Java Reactive Programming/14. Unit Testing With Step Verifier.md",
     "강의 스터디/Mastering Java Reactive Programming/13. (OPTIONAL) Context.md",
@@ -158,39 +180,18 @@
     "강의 스터디/Mastering Java Reactive Programming/7. (OPTIONAL) Threading & Schedulers.md",
     "강의 스터디/Mastering Java Reactive Programming/12. Sinks.md",
     "강의 스터디/Mastering Java Reactive Programming/11. Repeat & Retry.md",
-    "강의 스터디/Mastering Java Reactive Programming/Index/Mastering Java Reactive Programming.md",
-    "강의 스터디/Mastering Java Reactive Programming/9. Combining Publishers.md",
-    "강의 스터디/Mastering Java Reactive Programming/6. Hot & Cold Publishers.md",
-    "강의 스터디/Mastering Java Reactive Programming/5. Operators.md",
-    "강의 스터디/Mastering Java Reactive Programming/4. Flux - Emitting Items Programmatically.md",
-    "강의 스터디/Mastering Java Reactive Programming/3. Flux.md",
     "강의 스터디/Mastering Java Reactive Programming/attached_files/3.png",
     "강의 스터디/Mastering Java Reactive Programming/attached_files/2.png",
     "Untitled.canvas",
-    "2024-06-18.md",
-    "도서 스터디/투자자산운용사/해커스 투자자산운용사 문제집/(제1과목) 금융상품 및 세제/1-1. 세제관련 법규 및 세무전략.md",
     "강의 스터디/Mastering Java Reactive Programming/attached_files/1.png",
-    "도서 스터디/투자자산운용사/해커스 투자자산운용사 문제집/(제2과목) 투자운용 및 전략 II, 투자분석/2-1. 대안투자운용 및 투자전략.md",
     "6.png",
-    "도서 스터디/투자자산운용사/해커스 투자자산운용사 문제집/(제1과목) 금융상품 및 세제/attached_files",
-    "도서 스터디/투자자산운용사/해커스 투자자산운용사 문제집/(제3과목) 직무윤리 및 법규, 투자운용 및 전략 I 등/3-1. 직무윤리.md",
-    "도서 스터디/투자자산운용사/해커스 투자자산운용사 문제집/(제1과목) 금융상품 및 세제/attached_files/1.jpeg",
-    "도서 스터디/투자자산운용사/해커스 투자자산운용사 문제집/(제2과목) 투자운용 및 전략 II, 투자분석/2-2. 해외증권투자운용 및 투자전략.md",
-    "도서 스터디/투자자산운용사/해커스 투자자산운용사 문제집/(제1과목) 금융상품 및 세제/1-2. 금융상품.md",
+    "도서 스터디/해커스 투자자산운용사/(제1과목) 금융상품 및 세제/attached_files",
+    "도서 스터디/해커스 투자자산운용사/(제1과목) 금융상품 및 세제/attached_files/1.jpeg",
     "강의 스터디/Mastering Java Reactive Programming/attached_files/6.png",
     "강의 스터디/Mastering Java Reactive Programming/attached_files/1. Introduction",
-    "attached_files/1.md",
     "attached_files",
     "강의 스터디/Mastering Java Reactive Programming/attached_files/Mastering Java Reactive Programming",
     "강의 스터디/Mastering Java Reactive Programming/attached_files",
-    "9. Backpressure/Overflow Strategy.md",
-    "9. Backpressure",
-    "9. Backpressure / Overflow Strategy.md",
-    "9. Backpressure ",
-    "도서 스터디/토비의 스프링 3.1/Index/토비의 스프링 3.1.md",
-    "강의 스터디/Mastering Java Reactive Programming/Index",
-    "강의 스터디/Mastering Java Reactive Programming",
-    "강의 스터디",
     "무제 파일.canvas",
     "무제 파일 1.canvas"
   ]
