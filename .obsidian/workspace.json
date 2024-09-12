@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "72a2a09305c416d9",
+        "id": "14a7fce53c58beea",
         "type": "tabs",
         "children": [
           {
-            "id": "4c0bbe01976b7734",
+            "id": "6fcc4c3b4be8d23f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -157,22 +157,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4c0bbe01976b7734",
+  "active": "6fcc4c3b4be8d23f",
   "lastOpenFiles": [
-    "도서 스터디/SQL 자격검정 실전문제/과목 2. SQL 기본 및 활용/2-1. SQL 기본.md",
     "도서 스터디/SQL 자격검정 실전문제/과목 2. SQL 기본 및 활용/2-3. 관리 구문.md",
+    "도서 스터디/SQL 자격검정 실전문제/과목 2. SQL 기본 및 활용/attached_files/19.png",
     "도서 스터디/SQL 자격검정 실전문제/과목 2. SQL 기본 및 활용/2-2. SQL 활용.md",
+    "도서 스터디/SQL 자격검정 실전문제/과목 2. SQL 기본 및 활용/attached_files/15.png",
+    "도서 스터디/SQL 자격검정 실전문제/과목 2. SQL 기본 및 활용/attached_files/17.png",
+    "도서 스터디/SQL 자격검정 실전문제/과목 2. SQL 기본 및 활용/attached_files/18.png",
+    "도서 스터디/SQL 자격검정 실전문제/과목 2. SQL 기본 및 활용/attached_files/16.png",
+    "도서 스터디/SQL 자격검정 실전문제/과목 2. SQL 기본 및 활용/attached_files/14.png",
+    "도서 스터디/SQL 자격검정 실전문제/과목 2. SQL 기본 및 활용/attached_files/11.png",
+    "도서 스터디/SQL 자격검정 실전문제/과목 2. SQL 기본 및 활용/attached_files/13.png",
+    "도서 스터디/SQL 자격검정 실전문제/과목 2. SQL 기본 및 활용/attached_files/12.png",
+    "도서 스터디/SQL 자격검정 실전문제/과목 2. SQL 기본 및 활용/2-1. SQL 기본.md",
     "도서 스터디/SQL 자격검정 실전문제/과목 2. SQL 기본 및 활용/attached_files/10.png",
-    "도서 스터디/SQL 자격검정 실전문제/과목 2. SQL 기본 및 활용/attached_files/9.png",
-    "도서 스터디/SQL 자격검정 실전문제/과목 2. SQL 기본 및 활용/attached_files/8.png",
-    "도서 스터디/SQL 자격검정 실전문제/과목 2. SQL 기본 및 활용/attached_files/8.png",
-    "도서 스터디/SQL 자격검정 실전문제/과목 2. SQL 기본 및 활용/attached_files/7.png",
-    "도서 스터디/SQL 자격검정 실전문제/과목 2. SQL 기본 및 활용/attached_files/6.png",
-    "도서 스터디/SQL 자격검정 실전문제/과목 2. SQL 기본 및 활용/attached_files/4.png",
-    "도서 스터디/SQL 자격검정 실전문제/과목 2. SQL 기본 및 활용/attached_files/5.png",
     "도서 스터디/SQL 자격검정 실전문제/과목 3. SQL 고급활용 및 튜닝/3-1. 아키텍처 기반 튜닝 원리.md",
-    "도서 스터디/SQL 자격검정 실전문제/과목 2. SQL 기본 및 활용/attached_files/3.png",
-    "도서 스터디/SQL 자격검정 실전문제/과목 2. SQL 기본 및 활용/attached_files/2.png",
     "도서 스터디/SQL 자격검정 실전문제/과목 1. 데이터 모델링의 이해/1-2. 데이터 모델과 성능.md",
     "도서 스터디/SQL 자격검정 실전문제/과목 1. 데이터 모델링의 이해/1-1. 데이터 모델링의 이해.md",
     "도서 스터디/SQL 자격검정 실전문제/과목 2. SQL 기본 및 활용/attached_files",
