@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "강의 스터디/Reactive Programming/Mastering Java Reactive Programming/0. 목차.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "강의 스터디/Reactive Programming/Mastering Java Reactive Programming/0. 목차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "강의 스터디/Reactive Programming/Mastering Java Reactive Programming/0. 목차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "강의 스터디/Reactive Programming/Mastering Java Reactive Programming/0. 목차.md"
               }
             }
           },
@@ -156,8 +156,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9afeab600445d16b",
+  "active": "fe80eaf6d5f3565b",
   "lastOpenFiles": [
+    "README.md",
     "강의 스터디/SQL/MySQL 성능 최적화 입문,실전(SQL 튜닝편)/0. 목차.md",
     "강의 스터디/SQL/MySQL 성능 최적화 입문,실전(SQL 튜닝편)/5. 실전 SQL문으로 튜닝 직접 해보기.md",
     "강의 스터디/SQL/MySQL 성능 최적화 입문,실전(SQL 튜닝편)/4. SQL문 튜닝 연습하기.md",
@@ -175,11 +176,10 @@
     "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/4. 이분 탐색(Binary Search).md",
     "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/3. 다양한 정렬 응용법(Sort Application).md",
     "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/2. 완전 탐색(Brute Force).md",
-    "README.md",
     "강의.md",
     "().md",
     "Untitled",
-    "강의 스터디/Reactive Programming/Mastering Java Reactive Programming/Index/Mastering Java Reactive Programming.md",
+    "강의 스터디/Reactive Programming/Mastering Java Reactive Programming/0. 목차.md",
     "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/Index",
     "강의 스터디/한번에 끝내는 코딩테스트 369 Java편",
     "강의 스터디/Reactive Programming/Mastering Java Reactive Programming/11. Repeat & Retry.md",
