@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "도서 스터디/해커스 투자자산운용사/0. 목차.md",
+                "file": "도서 스터디/SQL 자격검정 실전문제/0. 목차.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "도서 스터디/해커스 투자자산운용사/0. 목차.md",
+                "file": "도서 스터디/SQL 자격검정 실전문제/0. 목차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "도서 스터디/해커스 투자자산운용사/0. 목차.md",
+                "file": "도서 스터디/SQL 자격검정 실전문제/0. 목차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "도서 스터디/해커스 투자자산운용사/0. 목차.md"
+                "file": "도서 스터디/SQL 자격검정 실전문제/0. 목차.md"
               }
             }
           },
@@ -156,10 +156,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9afeab600445d16b",
+  "active": "fe80eaf6d5f3565b",
   "lastOpenFiles": [
-    "도서 스터디/해커스 투자자산운용사/(제2과목) 투자운용 및 전략 II, 투자분석/2-2. 해외증권투자운용 및 투자전략.md",
     "도서 스터디/해커스 투자자산운용사/0. 목차.md",
+    "도서 스터디/해커스 투자자산운용사/(제2과목) 투자운용 및 전략 II, 투자분석/2-2. 해외증권투자운용 및 투자전략.md",
     "도서 스터디/토비의 스프링 3.1/0. 목차.md",
     "강의 스터디/Reactive Programming/Mastering Java Reactive Programming/0. 목차.md",
     "README.md",
