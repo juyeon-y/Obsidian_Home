@@ -5,7 +5,7 @@
 
 ### 강의 스터디
 #### 코딩테스트
-[한번에 끝내는 코딩테스트 369 Java편]()
+[한번에 끝내는 코딩테스트 369 Java편](./강의 스터디/한번에 끝내는 코딩테스트 369 Java편/Index/한번에 끝내는 코딩테스트 369 Java편.md)
 #### Reactive Programming
 [Mastering Java Reactive Programming]()
 #### SQL
