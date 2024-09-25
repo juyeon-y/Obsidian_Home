@@ -13,8 +13,8 @@
 
 ### 도서 스터디
 #### 스프링
-[토비의 스프링 3.1](https://github.com/juyeon-y/Obsidian_Home/blob/main/%EB%8F%84%EC%84%9C%20%EC%8A%A4%ED%84%B0%EB%94%94/%ED%86%A0%EB%B9%84%EC%9D%98%20%EC%8A%A4%ED%94%84%EB%A7%81%203.1/Index/%ED%86%A0%EB%B9%84%EC%9D%98%20%EC%8A%A4%ED%94%84%EB%A7%81%203.1.md)
+[토비의 스프링 3.1](https://github.com/juyeon-y/Obsidian_Home/blob/main/%EB%8F%84%EC%84%9C%20%EC%8A%A4%ED%84%B0%EB%94%94/%ED%86%A0%EB%B9%84%EC%9D%98%20%EC%8A%A4%ED%94%84%EB%A7%81%203.1/0.%20%EB%AA%A9%EC%B0%A8.md)
 #### 금융 도메인
-[투자자산운용사](https://github.com/juyeon-y/Obsidian_Home/blob/main/%EB%8F%84%EC%84%9C%20%EC%8A%A4%ED%84%B0%EB%94%94/%ED%95%B4%EC%BB%A4%EC%8A%A4%20%ED%88%AC%EC%9E%90%EC%9E%90%EC%82%B0%EC%9A%B4%EC%9A%A9%EC%82%AC/Index/%ED%95%B4%EC%BB%A4%EC%8A%A4%20%ED%88%AC%EC%9E%90%EC%9E%90%EC%82%B0%EC%9A%B4%EC%9A%A9%EC%82%AC.md)
+[투자자산운용사](https://github.com/juyeon-y/Obsidian_Home/blob/main/%EB%8F%84%EC%84%9C%20%EC%8A%A4%ED%84%B0%EB%94%94/%ED%95%B4%EC%BB%A4%EC%8A%A4%20%ED%88%AC%EC%9E%90%EC%9E%90%EC%82%B0%EC%9A%B4%EC%9A%A9%EC%82%AC/0.%20%EB%AA%A9%EC%B0%A8.md)
 #### SQL
-[SQL 자격검정 실전문제](https://github.com/juyeon-y/Obsidian_Home/blob/main/%EB%8F%84%EC%84%9C%20%EC%8A%A4%ED%84%B0%EB%94%94/SQL%20%EC%9E%90%EA%B2%A9%EA%B2%80%EC%A0%95%20%EC%8B%A4%EC%A0%84%EB%AC%B8%EC%A0%9C/Index/SQL%20%EC%9E%90%EA%B2%A9%EA%B2%80%EC%A0%95%20%EC%8B%A4%EC%A0%84%EB%AC%B8%EC%A0%9C.md)
+[SQL 자격검정 실전문제](https://github.com/juyeon-y/Obsidian_Home/blob/main/%EB%8F%84%EC%84%9C%20%EC%8A%A4%ED%84%B0%EB%94%94/SQL%20%EC%9E%90%EA%B2%A9%EA%B2%80%EC%A0%95%20%EC%8B%A4%EC%A0%84%EB%AC%B8%EC%A0%9C/0.%20%EB%AA%A9%EC%B0%A8.md)
