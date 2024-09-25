@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/1. 코딩 테스트를 푸는 좋은 습관.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/1. 코딩 테스트를 푸는 좋은 습관.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/1. 코딩 테스트를 푸는 좋은 습관.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/1. 코딩 테스트를 푸는 좋은 습관.md"
               }
             }
           },
@@ -158,12 +158,12 @@
   },
   "active": "9afeab600445d16b",
   "lastOpenFiles": [
+    "README.md",
     "도서 스터디/SQL 자격검정 실전문제/0. 목차.md",
     "도서 스터디/해커스 투자자산운용사/0. 목차.md",
     "도서 스터디/해커스 투자자산운용사/(제2과목) 투자운용 및 전략 II, 투자분석/2-2. 해외증권투자운용 및 투자전략.md",
     "도서 스터디/토비의 스프링 3.1/0. 목차.md",
     "강의 스터디/Reactive Programming/Mastering Java Reactive Programming/0. 목차.md",
-    "README.md",
     "강의 스터디/SQL/MySQL 성능 최적화 입문,실전(SQL 튜닝편)/0. 목차.md",
     "강의 스터디/SQL/MySQL 성능 최적화 입문,실전(SQL 튜닝편)/5. 실전 SQL문으로 튜닝 직접 해보기.md",
     "강의 스터디/SQL/MySQL 성능 최적화 입문,실전(SQL 튜닝편)/4. SQL문 튜닝 연습하기.md",
