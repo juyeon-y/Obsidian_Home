@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/1. 코딩 테스트를 푸는 좋은 습관.md",
+                "file": "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/2. 완전 탐색(Brute Force).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/1. 코딩 테스트를 푸는 좋은 습관.md",
+                "file": "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/2. 완전 탐색(Brute Force).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/1. 코딩 테스트를 푸는 좋은 습관.md",
+                "file": "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/2. 완전 탐색(Brute Force).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/1. 코딩 테스트를 푸는 좋은 습관.md"
+                "file": "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/2. 완전 탐색(Brute Force).md"
               }
             }
           },
@@ -158,6 +158,11 @@
   },
   "active": "9afeab600445d16b",
   "lastOpenFiles": [
+    "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/1. 코딩 테스트를 푸는 좋은 습관.md",
+    "도서 스터디/SQL 자격검정 실전문제/과목 1. 데이터 모델링의 이해/1-1. 데이터 모델링의 이해.md",
+    "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/2. 완전 탐색(Brute Force).md",
+    "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/attached_files/1.png",
+    "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/attached_files",
     "README.md",
     "도서 스터디/SQL 자격검정 실전문제/0. 목차.md",
     "도서 스터디/해커스 투자자산운용사/0. 목차.md",
@@ -171,7 +176,6 @@
     "강의 스터디/SQL/MySQL 성능 최적화 입문,실전(SQL 튜닝편)/2. 인덱스(Index) 기본 개념, 실전 활용법.md",
     "강의 스터디/SQL/MySQL 성능 최적화 입문,실전(SQL 튜닝편)/1. SQL 튜닝과 MySQL 구조 개요.md",
     "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/0. 목차.md",
-    "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/1. 코딩 테스트를 푸는 좋은 습관.md",
     "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/10. 동적 프로그래밍(Dynamic Programming).md",
     "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/9. 최단 경로(Shortest Path).md",
     "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/8. 위상정렬.md",
@@ -180,13 +184,10 @@
     "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/5. 두 포인터(Two Pointers).md",
     "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/4. 이분 탐색(Binary Search).md",
     "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/3. 다양한 정렬 응용법(Sort Application).md",
-    "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/2. 완전 탐색(Brute Force).md",
     "강의.md",
-    "().md",
     "Untitled",
     "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/Index",
     "강의 스터디/한번에 끝내는 코딩테스트 369 Java편",
-    "강의 스터디/Reactive Programming/Mastering Java Reactive Programming/11. Repeat & Retry.md",
     "강의 스터디/SQL/MySQL 성능 최적화 입문,실전(SQL 튜닝편)/Index",
     "강의 스터디/SQL",
     "강의 스터디/Reactive Programming",
@@ -200,10 +201,8 @@
     "도서 스터디/SQL 자격검정 실전문제/과목 2. SQL 기본 및 활용/attached_files/11.png",
     "도서 스터디/SQL 자격검정 실전문제/과목 2. SQL 기본 및 활용/attached_files/13.png",
     "도서 스터디/SQL 자격검정 실전문제/과목 2. SQL 기본 및 활용/attached_files/12.png",
-    "도서 스터디/SQL 자격검정 실전문제/과목 2. SQL 기본 및 활용/attached_files/10.png",
     "도서 스터디/SQL 자격검정 실전문제/과목 2. SQL 기본 및 활용/attached_files",
     "attached_files",
-    "도서 스터디/SQL 자격검정 실전문제/과목 1. 데이터 모델링의 이해/attached_files",
     "Untitled.canvas",
     "무제 파일.canvas",
     "무제 파일 1.canvas"
