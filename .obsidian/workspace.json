@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/2. 완전 탐색(Brute Force).md",
+                "file": "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/3. 다양한 정렬 응용법(Sort Application).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.50260543823242,
-    "collapsed": true
+    "width": 241.50260543823242
   },
   "right": {
     "id": "deafffb2bd21d4b4",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/2. 완전 탐색(Brute Force).md",
+                "file": "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/3. 다양한 정렬 응용법(Sort Application).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/2. 완전 탐색(Brute Force).md",
+                "file": "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/3. 다양한 정렬 응용법(Sort Application).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/2. 완전 탐색(Brute Force).md"
+                "file": "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/3. 다양한 정렬 응용법(Sort Application).md"
               }
             }
           },
@@ -159,8 +158,8 @@
   },
   "active": "9afeab600445d16b",
   "lastOpenFiles": [
-    "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/3. 다양한 정렬 응용법(Sort Application).md",
     "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/2. 완전 탐색(Brute Force).md",
+    "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/3. 다양한 정렬 응용법(Sort Application).md",
     "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/1. 코딩 테스트를 푸는 좋은 습관.md",
     "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/0. 목차.md",
     "도서 스터디/SQL 자격검정 실전문제/과목 1. 데이터 모델링의 이해/1-1. 데이터 모델링의 이해.md",
