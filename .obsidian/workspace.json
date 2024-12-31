@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/3. 다양한 정렬 응용법(Sort Application).md",
+                "file": "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/5. 두 포인터(Two Pointers).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. 다양한 정렬 응용법(Sort Application)"
+              "title": "5. 두 포인터(Two Pointers)"
             }
           }
         ]
@@ -178,6 +178,7 @@
   "active": "2b96cfddbbe7ea07",
   "lastOpenFiles": [
     "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/4. 이분 탐색(Binary Search).md",
+    "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/3. 다양한 정렬 응용법(Sort Application).md",
     "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/5. 두 포인터(Two Pointers).md",
     "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/6. 그래프 탐색(Graph Search, DFS & BFS).md",
     "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/2. 완전 탐색(Brute Force).md",
@@ -187,7 +188,6 @@
     "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/9. 최단 경로(Shortest Path).md",
     "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/10. 동적 프로그래밍(Dynamic Programming).md",
     "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/8. 위상정렬.md",
-    "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/3. 다양한 정렬 응용법(Sort Application).md",
     "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/0. 목차.md",
     "도서 스터디/SQL 자격검정 실전문제/과목 1. 데이터 모델링의 이해/1-1. 데이터 모델링의 이해.md",
     "강의 스터디/한번에 끝내는 코딩테스트 369 Java편/attached_files/1.png",
