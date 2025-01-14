@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.50260543823242
+    "width": 241.50260543823242,
+    "collapsed": true
   },
   "right": {
     "id": "deafffb2bd21d4b4",
@@ -174,7 +175,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fe80eaf6d5f3565b",
+  "active": "2b96cfddbbe7ea07",
   "lastOpenFiles": [
     "README.md",
     "도서 스터디/해커스 투자자산운용사/(제1과목) 금융상품 및 세제/1-1. 세제관련 법규 및 세무전략.md",
